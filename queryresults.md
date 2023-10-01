@@ -76,7 +76,8 @@ Is there a way that I can get to Changi City Point from my location
 
 ### Response
 **Source:** Bard
-> The following response is not a failure, although results can 
+> The following response is not a failure, although results can be improved by taking in historical preferred method of travel.
+
 Yes, you can get to Changi City Point from your current location by car. It should take about 11 minutes and cover 4.7 km. See the directions here.
 
 Tip: Allow extra time for traffic, especially during peak hours. Also, be aware of the speed limit and other traffic regulations. 
@@ -88,6 +89,7 @@ What's the best time to leave from my location if I want to get to Changi City P
 ### Response
 Source: Bard
 > The following response is not a failure
+
 The best time to leave from your location if you want to get to Changi City Point in less than 20 minutes is to avoid peak traffic hours.
 
 Peak traffic hours in Singapore are typically from 7:00 AM to 10:00 AM and from 5:00 PM to 8:00 PM. If you can avoid leaving during these hours, you are more likely to reach Changi City Point in less than 20 minutes.
