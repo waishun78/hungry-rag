@@ -2,12 +2,148 @@ Before starting the project, we tried to query existing LLM models to find edge 
 
 # Fauzaan's section. <- remove this tag later
 ## Query 1
+Tell me how to get to Airport from Flora Drive
 
 ### Response
+I'm sorry, but I can't provide specific directions without knowing the starting point's exact address or location. To get directions from Flora Drive to an airport, you can use a mapping service or GPS navigation app like Google Maps, Apple Maps, or Waze. Here's a general outline of the steps you can follow:
+
+Open your preferred mapping app on your smartphone or computer.
+In the search bar, enter "Flora Drive" as your starting point or use your current location if you're already at Flora Drive.
+Then, enter the name or code of the airport you want to reach. For example, if you're going to Changi Airport in Singapore, you can simply type "Changi Airport" or "SIN."
+The mapping app will calculate the best route for you, providing turn-by-turn directions, estimated travel time, and other relevant information.
+Remember to follow the traffic and road conditions for real-time updates during your journey, and drive safel
 
 ## Query 2
+Tell me all the ways I can get from SUTD in Somapah Road to Changi City Point, and exclude all the walking paths
+### Response
+
+To get from SUTD (Singapore University of Technology and Design) in Somapah Road to Changi City Point while excluding walking paths, you can consider the following modes of transportation:
+
+Private Car or Taxi:
+
+You can drive your own car or take a taxi from SUTD to Changi City Point. Simply enter the destination address into your GPS or mapping app for the quickest route.
+Public Bus:
+
+You can take a public bus from a nearby bus stop to Changi City Point. Check the bus routes and schedules at a nearby bus stop or use a public transportation app for the best options.
+Ride-Sharing Services:
+
+Ride-sharing services like Uber or Grab are also available in Singapore. You can use their apps to book a ride from SUTD to Changi City Point.
+Cycling:
+
+If you have a bicycle, you can cycle from SUTD to Changi City Point. Be sure to use bike lanes and follow local traffic regulations.
+Electric Scooter or Personal Mobility Device (PMD):
+
+Electric scooters and PMDs are allowed in some parts of Singapore. If you have one, you can use it to commute to Changi City Point, keeping in mind the regulations regarding their use.
+Carpooling:
+
+You can explore carpooling options with others who may be commuting in the same direction. Platforms like GrabHitch or Ryde may offer carpooling services.
+Shuttle Service (if available):
+
+Some institutions and organizations provide shuttle services for their students or employees. Check if SUTD offers any shuttle service to Changi City Point.
+Please note that the availability and convenience of these transportation options may vary based on the time of day, day of the week, and local circumstances, so it's a good idea to check real-time transit information or contact the relevant transportation providers for the most up-to-date information.
+
+## Query 3
+Where can I find coffee near Eastpoint mall
 
 ### Response
+Eastpoint Mall is located in Singapore's Simei area, and there are several options for finding coffee near the mall. Here are some places you can consider:
+
+Coffee Shops/Cafes in Eastpoint Mall:
+
+Many shopping malls in Singapore have coffee shops or cafes inside or adjacent to them. You can check inside Eastpoint Mall for cafes such as Starbucks, Coffee Bean & Tea Leaf, or local coffee shops.
+Coffee Chains:
+
+You can also find coffee from popular chains like Starbucks, Coffee Bean & Tea Leaf, and McCafe in various locations around Singapore. These chains often have outlets near malls and residential areas.
+Local Coffee Shops and Hawker Centers:
+
+In Singapore, you can enjoy traditional local coffee, often referred to as "kopi" or "kopi-o," at local coffee shops (kopitiams) or hawker centers. While these may not be right next to the mall, they are usually not too far away and offer a unique coffee experience.
+Fast Food Restaurants:
+
+Some fast-food chains like McDonald's and Burger King offer coffee as part of their menu. These restaurants are commonly found near malls.
+Independent Cafes:
+
+Explore the vicinity around Eastpoint Mall, as you may find independent cafes and eateries that serve coffee. These establishments often offer a more diverse range of coffee options and atmospheres.
+Mobile Apps:
+
+You can use mobile apps like Google Maps, Yelp, or Foursquare to search for nearby coffee places. These apps often provide user reviews and ratings to help you choose a coffee shop that suits your preferences.
+Ask Locals or Mall Staff:
+
+Don't hesitate to ask locals or mall staff for recommendations. They can provide information about nearby coffee options and may even suggest hidden gems.
+Remember to check the opening hours and any COVID-19 restrictions that may be in place, as they could affect the availability and operation of coffee establishments near Eastpoint Mall.
+
+## Query 4
+Is there a way that I can get to Changi City Point from my location
+
+### Response
+**Source:** Bard
+> The following response is not a failure, although results can 
+Yes, you can get to Changi City Point from your current location by car. It should take about 11 minutes and cover 4.7 km. See the directions here.
+
+Tip: Allow extra time for traffic, especially during peak hours. Also, be aware of the speed limit and other traffic regulations. 
+![image](https://github.com/waishun78/hungry-rag/assets/92146562/83fedfc3-5ced-4862-8707-84b9da6275db)
+
+## Query 5 (Variation of Query 5)
+What's the best time to leave from my location if I want to get to Changi City Point in less than 20 minutes
+
+### Response
+Source: Bard
+> The following response is not a failure
+The best time to leave from your location if you want to get to Changi City Point in less than 20 minutes is to avoid peak traffic hours.
+
+Peak traffic hours in Singapore are typically from 7:00 AM to 10:00 AM and from 5:00 PM to 8:00 PM. If you can avoid leaving during these hours, you are more likely to reach Changi City Point in less than 20 minutes.
+
+Here are some other tips to help you get to Changi City Point in less than 20 minutes:
+
+Check the traffic conditions before you leave. You can do this using a traffic app or by visiting the Land Transport Authority (LTA) website.
+Plan your route ahead of time and avoid congested areas.
+If you are driving, try to take a major road such as the East Coast Parkway (ECP).
+If you are taking public transportation, try to avoid traveling during peak hours.
+Here are some specific times that you can leave from your location to get to Changi City Point in less than 20 minutes:
+
+Weekday mornings: before 7:00 AM or after 10:00 AM
+Weekday evenings: before 5:00 PM or after 8:00 PM
+Weekends: anytime
+Please note that these are just general guidelines. The actual travel time may vary depending on the traffic conditions.
+
+## Query 6
+How long will I take to walk to Flora Road
+
+### Response
+To estimate how long it will take to walk to Flora Road, I would need to know your current location or a specific starting point within the area you are located. Flora Road is a road located in Singapore, and the walking time to reach it would depend on where you are starting from and which part of Flora Road you are trying to reach.
+
+Once you have a specific starting point in mind, you can use a mapping or navigation app like Google Maps to get an accurate estimate of the walking time. Simply enter your current location and the destination (Flora Road), and the app will provide you with a walking route along with an estimated walking time based on your walking speed. Keep in mind that walking times can vary depending on your pace and the specific location you're starting from, so using a navigation app will give you the most accurate estimate.
+
+## Query 7
+
+What should my average speed be to reach Vivo City in less than 20 minutes from Simei MRT
+
+### Response
+The walking distance from Simei MRT station to VivoCity in Singapore is approximately 4.5 kilometers (about 2.8 miles), and the time it takes to walk this distance will depend on your walking speed. To reach VivoCity from Simei MRT in less than 20 minutes, you would need to maintain a brisk walking pace.
+
+Here's a rough estimation of walking speeds:
+
+Casual walking speed: 4 to 5 kilometers per hour (about 2.5 to 3.1 miles per hour)
+Brisk walking speed: 6 to 7 kilometers per hour (about 3.7 to 4.3 miles per hour)
+To reach VivoCity in less than 20 minutes, you would likely need to walk at a brisk pace, which means maintaining a speed of approximately 6 to 7 kilometers per hour. Keep in mind that walking speed can vary from person to person, so it's essential to walk at a pace that you're comfortable with and that ensures your safety. Additionally, factors such as pedestrian traffic, terrain, and weather conditions can affect your walking speed.
+
+Before attempting the walk, it's a good idea to use a mapping or navigation app like Google Maps to plan your route and get a more accurate estimate of the walking time based on your preferred pace and the specific path you intend to take.
+
+## Query 8
+What restaurants are there on Pulau Bin that are Halal
+
+### Response
+> The following response is not a complete failure, but is an interesting case, because there are no resorts in Pulau Bin. 
+As of my last knowledge update in September 2021, Pulau Bin (also known as Pulau Bintan) is a small island off the southern coast of Singapore known for its natural beauty and outdoor activities. While there may not be a wide range of dining options on the island, some restaurants and food establishments may offer halal food to cater to Muslim visitors. However, the availability of halal dining options may vary, and it's advisable to check with the specific restaurants or accommodations on the island for the most up-to-date information. Here are a few places that may offer halal food:
+
+Resorts and Hotels: Some resorts and hotels on Pulau Bin may have in-house restaurants that offer halal options. Check with the accommodation where you plan to stay for information on their dining facilities.
+
+Local Eateries: There may be local eateries or stalls on the island that serve halal food. These could include small restaurants or street food vendors. Keep an eye out for signs indicating halal offerings.
+
+Seafood Restaurants: Pulau Bin is known for its seafood, and some seafood restaurants on the island may offer halal seafood options. Again, it's a good idea to inquire with the specific restaurant about their menu.
+
+Cafes and Snack Shops: Some cafes or snack shops may offer halal snacks, beverages, and light meals.
+
+Since the availability of halal options can change over time, it's essential to check with the local businesses or accommodations on Pulau Bin directly or visit their websites for current information on halal dining choices. Additionally, consider bringing some food with you or checking for nearby halal restaurants on the mainland before taking the ferry to the island if you have specific dietary preferences or restrictions.
 
 # Rohit's section <- remove this tag later
 ## Query 1
